@@ -87,6 +87,8 @@ dependencies {
         exclude group: 'com.android.support'
     }
     compile rootProject.ext.appDependencies.timber
+    compile 'com.google.code.gson:gson:2.3.1'
+
 
 
 }
