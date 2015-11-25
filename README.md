@@ -1,3 +1,5 @@
+![tongs](./art/tongs.png)
+
 GWSTongs
 ========
 
